@@ -29,18 +29,31 @@
 -To set up the Note-Pad-Foot application for local development, follow these steps:
 
 -Clone the repository:
+
 -Copy code
--git clone YOUR_REPOSITORY_LINK
+
+-git clone repo URL
+
 -Navigate to the project directory:
+
 -Copy code
+
 -cd note-pad-foot
+
 -Install dependencies:
+
 -Copy code
+
 -npm install
+
 -Start the application:
+
 -sql
+
 -Copy code
+
 -npm start
+
 -Visit http://localhost:3000 in your browser to use the application.
 
 
